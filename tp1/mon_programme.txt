@@ -1,0 +1,6 @@
+program tp1;
+begin
+int i=3;
+_a;
+1a;
+end
